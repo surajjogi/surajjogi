@@ -93,9 +93,9 @@ Interactive browser game mechanics.
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/yourusername">GitHub</a> •
-<a href="https://linkedin.com/in/yourlink">LinkedIn</a> •
-<a href="mailto:your@email.com">Email</a>
+<a href="https://github.com/surajjogi">GitHub</a> •
+<a href="https://linkedin.com/in/surajjogi97">LinkedIn</a> •
+<a href="mailto:surajjogi078@gmail.com">Email</a>
 </p>
 
 ---
