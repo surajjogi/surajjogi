@@ -3,13 +3,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Suraj%20Jogi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&height=230&text=⚡%20SURAJ%20⚡&fontSize=68&fontAlignY=46&fontColor=ffffff&animation=twinkling&color=0:0f0c29,50:302b63,100:00c6ff" />
 
-# 👋 Hi, I'm Suraj Jogi
+<br><br>
 
-### 🚀 AI Web Developer | Full Stack Engineer | SaaS Builder
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2200&pause=700&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+WEB+DEVELOPER;FULL+STACK+ENGINEER;BUILDING+MODERN+WEB+PRODUCTS;NEXT.JS+%7C+REACT+%7C+NODE.JS+%7C+MONGODB;TURNING+IDEAS+INTO+REALITY" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI+Powered+Web+Apps;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Creating+Startup+Level+Products" />
+<br><br>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="650" />
+
+<br><br>
+
+### ✨ Code. Create. Scale. ✨
 
 </div>
 
