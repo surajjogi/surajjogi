@@ -103,11 +103,6 @@ Interactive browser game mechanics.
 <div align="center">
 
 ### ⚡ Building the Future with AI + Web
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364" />
-
-</div>**surajjogi/surajjogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 - 🔭 I’m currently working on AI-powered web applications, SaaS products, and real-time full stack platforms.
 - 🌱 I’m currently learning advanced AI integration, scalable backend architecture, and system design.
