@@ -56,12 +56,6 @@ AI content generation platform with admin control panel.
 ### 🔐 Auth Platform
 OTP login, admin approval, RBAC security model.
 
-### 📄 Smart Resume Analyzer
-AI-driven resume scoring and recommendations.
-
-### 🎮 Temple Run Style Game
-Interactive browser game mechanics.
-
 ---
 ## 📊 Performance Dashboard
 
