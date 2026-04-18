@@ -57,16 +57,19 @@ AI-driven resume scoring and recommendations.
 Interactive browser game mechanics.
 
 ---
-
 ## 📊 Performance Dashboard
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&border_radius=15" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&border_radius=15" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=surajjogi&show_icons=true&theme=tokyonight&border_radius=15&hide_border=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=surajjogi&layout=compact&theme=tokyonight&border_radius=15&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&border_radius=15" />
+<img src="https://streak-stats.demolab.com?user=surajjogi&theme=tokyonight&border_radius=15&hide_border=true" />
+</p>
+
+<p align="center">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=surajjogi&theme=tokyonight" />
 </p>
 
 ---
