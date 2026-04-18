@@ -38,7 +38,7 @@
 ![skills](https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind)
 
 ### Backend
-![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,php,laravel)
+![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb)
 
 ### AI / DevOps / Tools
 ![skills](https://skillicons.dev/icons?i=python,git,github,vscode,linux,docker)
