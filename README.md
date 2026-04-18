@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f2027,50:203a43,100:2c5364&text=Suraj%20Jogi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
