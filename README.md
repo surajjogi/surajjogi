@@ -47,6 +47,8 @@
 
 ## 🚀 Premium Projects
 
+### ✈️ Code/Arena - Ai Coding Platform 
+Live global flight tracker with real-time API, caching, maps.
 ### ✈️ AeroTrack
 Live global flight tracker with real-time API, caching, maps.
 
